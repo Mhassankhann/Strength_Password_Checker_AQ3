@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Strength Checker 🔐
 
 ## 🚀 Introduction
@@ -63,3 +64,6 @@ Feel free to contribute or suggest improvements. Happy coding! 💻
 
 Made with ❤️ by Muhammad Samad
 
+=======
+# Strength_Password_Checker_AQ3
+>>>>>>> main
